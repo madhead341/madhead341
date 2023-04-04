@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on:
 
-### - SpyWare/InfoStealer
+### - SpyWare/InfoStealer (educational purposes)
 
 
 ## 🌱 I’m currently learning:
@@ -12,6 +12,3 @@
 ### - HTML
 
 ### - JavaScript
-
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="github contribution grid snake animation"/>
