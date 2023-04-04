@@ -1,14 +1,14 @@
-### Hi there 👋
+# Hi there 👋
 
 ## 🔭 I’m currently working on:
 
-# - SpyWare/InfoStealer
+### - SpyWare/InfoStealer
 
 
 ## 🌱 I’m currently learning:
 
-# - Python
+### - Python
 
-# - HTML
+### - HTML
 
-# - JavaScript
+### - JavaScript
