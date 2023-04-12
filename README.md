@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on:
 
-### - SpyWare/InfoStealer called 'LOSR Logger v2' (educational purposes)
+### - SpyWare/InfoStealer called ['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) (educational purposes)
 ### - other little python projects
 
 
