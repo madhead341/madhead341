@@ -5,11 +5,11 @@
 ### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) (educational purposes)
 ### - other little python projects:
       
-!['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) [Vanity Hack](https://github.com/madhead341/Vanity-Hack)
+!['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) -- [Vanity Hack](https://github.com/madhead341/Vanity-Hack)
 
-!['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green) https://github.com/madhead341/LOSR-Fake-wallet-miner
+!['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green) -- [Fake Wallet Miner](https://github.com/madhead341/LOSR-Fake-wallet-miner)
 
-!['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple) https://github.com/madhead341/LOSR-Logger
+!['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple) -- [LO$R Logger](https://github.com/madhead341/LOSR-Logger)
 
 
 ## 🌱 I’m currently learning:
