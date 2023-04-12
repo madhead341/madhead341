@@ -6,7 +6,10 @@
 ### - other little python projects:
       
 !['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black)
+
 !['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green)
+
+!['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple)
 
 
 ## 🌱 I’m currently learning:
