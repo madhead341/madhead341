@@ -5,7 +5,7 @@
 ### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) (educational purposes)
 ### - other little python projects:
       
-!['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) https://github.com/madhead341/Vanity-Hack
+!['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) [Vanity Hack](https://github.com/madhead341/Vanity-Hack)
 
 !['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green) https://github.com/madhead341/LOSR-Fake-wallet-miner
 
