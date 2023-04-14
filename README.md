@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=madhead341)
 
-### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) [LO$R Logger v2](https://github.com/madhead341/LO$R Logger v2) (educational purposes)
+### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) [LO$R Logger v2](https://github.com/madhead341/LO$R-Logger-v2) (educational purposes)
       
 !['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) -- [Vanity Hack](https://github.com/madhead341/Vanity-Hack)
 
