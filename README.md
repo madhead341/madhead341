@@ -1,28 +1,14 @@
-# Hey There!
+![](https://komarev.com/ghpvc/?username=madhead341)
 
-## 🔭 I’m currently working on:
-
-### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) (educational purposes)
-### - other little python projects:
+### - SpyWare/InfoStealer called !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) [LO$R Logger v2](https://github.com/madhead341/LO$R Logger v2) (educational purposes)
       
 !['Vanity Hack'](https://img.shields.io/badge/Vanity%20-Hack-black) -- [Vanity Hack](https://github.com/madhead341/Vanity-Hack)
 
 !['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green) -- [Fake Wallet Miner](https://github.com/madhead341/LOSR-Fake-wallet-miner)
 
 !['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple) -- [LO$R Logger](https://github.com/madhead341/LOSR-Logger)
-
-
-## 🌱 I’m currently learning:
-
-### ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-# 
  
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madhead341&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhead341&theme=tokyonight)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhead341&layout=compact)](https://github.com/madhead341)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhead341&hide=php&theme=tokyonight)(https://github.com/madhead341)
