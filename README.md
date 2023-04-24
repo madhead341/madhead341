@@ -10,3 +10,5 @@
 !['Wallet Miner'](https://img.shields.io/badge/Wallet-Miner-green) -- [Fake Wallet Miner](https://github.com/madhead341/LOSR-Fake-wallet-miner)
 
 !['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple) -- [LO$R Logger](https://github.com/madhead341/LOSR-Logger)
+
+!['coffee'](https://www.buymeacoffee.com/losr)
