@@ -11,4 +11,5 @@
 
 !['LO$R Logger'](https://img.shields.io/badge/LO%24R-Logger-purple) -- [LO$R Logger](https://github.com/madhead341/LOSR-Logger)
 
-!['coffee'](https://www.buymeacoffee.com/losr)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/losr/)
+
