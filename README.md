@@ -33,5 +33,5 @@ Selftaught programmer.<br> <br>
 </p>
 <p align="center">
 ## 💰 You can help me by Donating 
-[![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/losr)
+[![](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FF813F?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/losr)
 </p>
