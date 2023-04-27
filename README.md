@@ -10,8 +10,12 @@ Selftaught programmer.<br> <br>
   <a href="https://discord.com/users/1083368117230653460"><img src="https://lanyard-profile-readme.vercel.app/api/1083368117230653460?idleMessage=Working%On%20My%20Website." width=45%></a>
 </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madhead341&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=madhead341&hide=php&theme=tokyonight)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=madhead341&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=madhead341&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=madhead341&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
 
 !['LOSR Logger v2'](https://img.shields.io/badge/LO%24R%20Logger-v2-purple) [LO$R Logger v2](https://github.com/madhead341/LOSR-Logger-v2)
 
