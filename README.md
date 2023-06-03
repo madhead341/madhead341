@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!;I'm+madhead341;Formerly+known+as+!+LO%24R+or+LO%24R+;I'm+a+selftaught+python+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&width=435&lines=Hi+there!;I'm+madhead341;Formerly+known+as+!+LO%24R+or+LO%24R+;I'm+a+selftaught+python+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=madhead341&label=Profile%20views&color=5c12df&style=flat" alt="madhead341" />
