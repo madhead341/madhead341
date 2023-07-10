@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=520&lines=Hi+there!;I'm+madhead341;Formerly+known+as+!+LO%24R+or+Sexualize#0001;I'm+a+selftaught+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=520&lines=Hi+there!;I'm+madhead341;Formerly+known+as+!+LO%24R+or+!lo$er;I'm+a+selftaught+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=madhead341&label=Profile%20views&color=5c12df&style=flat" alt="madhead341" />
@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1126871376570097714"><img src="https://lanyard-profile-readme.vercel.app/api/1106868081843777537?idleMessage=Prolly%20Working%20On%20Shitty%20Programs." width=45%></a>
+  <a href="https://discord.com/users/1126871376570097714"><img src="https://lanyard-profile-readme.vercel.app/api/1126871376570097714?idleMessage=Prolly%20Working%20On%20Shitty%20Programs." width=45%></a>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
