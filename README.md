@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1126871376570097714"><img src="https://lanyard-profile-readme.vercel.app/api/1126871376570097714?idleMessage=Prolly%20Working%20On%20Shitty%20Programs." width=45%></a>
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:1126871376570097714)](https://discord.com/users/:1126871376570097714)
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
