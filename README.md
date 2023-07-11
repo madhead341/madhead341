@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:1126871376570097714)](https://discord.com/users/:1126871376570097714)
+  [Discord Presence](https://lanyard.cnrad.dev/api/:1126871376570097714)](https://discord.com/users/:1126871376570097714)
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
