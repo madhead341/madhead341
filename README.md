@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.com/users/1128055835344506980"><img src="https://lanyard-profile-readme.vercel.app/api/1128055835344506980?idleMessage=Prolly%20Working%20On%20Shitty%20Programs." width=45%></a>
+  <a href="https://discord.com/users/1128055835344506980"><img src="https://lanyard-profile-readme.vercel.app/api/1128055835344506980?idleMessage=Probably%20Working%20On%20Shitty%20Programs." width=45%></a>
 
 <div align="center">
   <h2>📊 GitHub Stats</h2>
