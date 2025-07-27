@@ -16,8 +16,5 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=madhead341&theme=dark&hide_border=true" alt="GitHub Streak" width="500"/>
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhead341&theme=dark&layout=compact&hide_border=true" alt="GitHub Top Languages" width="500"/>
-  <br><br>
-  <h2>💰 You can support me by Donating</h2>
-  <a href="https://buymeacoffee.com/losr" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"></a>
   <br>
 </div>
