@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=520&lines=Hi+there!;I'm+madhead341;+Selftaught+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
 
+got banned on discord, won't come back
+
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=madhead341&label=Profile%20views&color=5c12df&style=flat" alt="madhead341" />
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=5c12df&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/madhead341" alt="Stars"></a>
