@@ -1,6 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&width=520&lines=Hi+there!;I'm+madhead341;+Selftaught+programmer+%26+tech+enthousiast)](https://git.io/typing-svg)
 
-got banned on discord, won't come back
+<div align="center">
+  got banned on discord, won't come back
+</div>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=madhead341&label=Profile%20views&color=5c12df&style=flat" alt="madhead341" />
